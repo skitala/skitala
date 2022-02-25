@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @skitala
 - 👀 I’m interested in programming, cyber security..
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on projects that are on my current skill level.
+- 💞️ I’m looking to collaborate on projects that are on my current skill level or a little above.
 - 📫 How to reach me 
 Facebook: Nikola Djurkovic(Ronin)
+Instagram: skitala96
 Let's do this! And that.
 
 
